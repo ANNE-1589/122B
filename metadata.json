@@ -1,0 +1,6 @@
+{
+  "name": "12/2B – Our Last Chapter",
+  "description": "Cổng thông tin và không gian kỷ niệm kỹ thuật số của tập thể 12/2B, THPT Phan Bội Châu (Niên khóa 2026–2027).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
